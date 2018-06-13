@@ -2,18 +2,18 @@
 layout: default
 ---
 
-Hi! 
+Hi!
 
-Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will be doing book readings, paper readings, code demos, guest lectures and a lot more. 
+Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will be doing book readings, paper readings, code demos, guest lectures and more importantly, discussing and updating the latest research from deep-learning community.
 
-We are first planning to finish the book by Ian Goodfellow, [deeplearningbook](http://www.deeplearningbook.org/).
+We are first planning to finish the book by Ian Goodfellow, [deeplearningbook](http://www.deeplearningbook.org/) and cover widely used deep learning architectures in June and then move to [Matrix Computation book](http://web.mit.edu/ehliu/Public/sclark/Golub%20G.H.,%20Van%20Loan%20C.F.-%20Matrix%20Computations.pdf) in mid July.
 
 **All are welcome**
 
 ### Time and Location
 
 We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break room 5765B**.
- 
+
 
 ### Schedule
 
@@ -21,7 +21,7 @@ We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break ro
 |:---------------:|---------------------------------------|-------------|-----------|---------------
 | _Book Reading_  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |              |
 | _Book Reading_  | ch 6: Deep Networks                   | Ronak       | 5th June  |              |
-| _Book Reading_  | ch 7: Regularization in Deep Networks | Tuan        | 12th June |[slides]()    |
+| _Book Reading_  | ch 7: Regularization in Deep Networks | Tuan        | 12th June |[slides](https://www.dropbox.com/s/oo4j4fusrwu2jhl/summer18-dlta-7-Regularization.pdf?dl=0)    |
 | _Book Reading_  | ch 13: Autoencoders                   | Zihang      | 15th June |              |
 
 
