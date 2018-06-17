@@ -23,6 +23,7 @@ We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break ro
 | _Book Reading_  | ch 6: Deep Networks                   | Ronak       | 5th June  |              |
 | _Book Reading_  | ch 7: Regularization in Deep Networks | Tuan        | 12th June |[slides](https://www.dropbox.com/s/oo4j4fusrwu2jhl/summer18-dlta-7-Regularization.pdf?dl=0)    |
 | _Book Reading_  | ch 13: Autoencoders                   | Zihang      | 15th June |              |
+| _Code Demo_     | ch 13: Autoencoders Contd             | Shitao      | 19th June |              |
 
 
 
