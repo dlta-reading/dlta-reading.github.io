@@ -22,8 +22,7 @@ We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break ro
 | _Book Reading_  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |              |
 | _Book Reading_  | ch 6: Deep Networks                   | Ronak       | 5th June  |              |
 | _Book Reading_  | ch 7: Regularization in Deep Networks | Tuan        | 12th June |[slides](https://drive.google.com/file/d/1syKNS_3TAREMZeFnLbo9vklV4XBx32X-/view?usp=sharing)    |
-| _Book Reading_  | ch 13: Autoencoders                   | Zihang      | 15th June |[slides]
-(https://drive.google.com/file/d/1txKSwjEM608BhO73XdejwJnlq8ZKp-LZ/view?usp=sharing)|
+| _Book Reading_  | ch 13: Autoencoders                   | Zihang      | 15th June |[slides (https://drive.google.com/file/d/1syKNS_3TAREMZeFnLbo9vklV4XBx32X-/view?usp=sharing)    |
 | _Code Demo_     | ch 13: Autoencoders Contd             | Shitao      | 19th June |              |
 | _Presentation_  | CVPR 2018 Highlights .                | Ronak       | 22nd June |              |
 
