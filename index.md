@@ -14,7 +14,7 @@ Please find the dicussion forum [here](https://groups.google.com/d/forum/dlta-re
 
 ### Time and Location
 
-We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break room 5765B**.
+We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** in **MSC Conference room 4th floor**.
 
 
 ### Schedule
