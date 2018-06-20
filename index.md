@@ -27,9 +27,7 @@ We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** 
 | _Book Reading_  | ch 13: Autoencoders                   | Zihang      | 15th June |[slides](https://drive.google.com/file/d/1syKNS_3TAREMZeFnLbo9vklV4XBx32X-/view?usp=sharing)    |
 | _Code Demo_     | Autoencoders, VAEs, WAEs              | Shitao      | 19th June |              |
 | _Presentation_  | CVPR 2018 Highlights                  | Ronak       | 22nd June |              |
-| _Guest Talk  _  | --topic--                             | Vamsi 
-                                                          (Research Scientist, Occulus)
-                                                                        | -- July   |              |
+| _Guest Talk  _  | --topic--                             | Vamsi (Research Scientist, Occulus)| -- July   |              |
 
 
 
