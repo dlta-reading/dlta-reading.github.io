@@ -27,7 +27,7 @@ We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** 
 | _Book Reading_  | ch 14: Autoencoders                   | Zihang      | 15th June |[slides](https://drive.google.com/file/d/1syKNS_3TAREMZeFnLbo9vklV4XBx32X-/view?usp=sharing)    |
 | _Paper Review_  | Autoencoders, VAEs, WAEs              | Shitao      | 19th June |              |
 | _Presentation_  | CVPR 2018 Highlights                  | Ronak       | 22nd June |              |
-| _Book Reading_  | ch 8: Optimization in deepnets        | Haoliang & Xingjian       | 25th June | [slides](https://drive.google.com/drive/u/1/folders/1KmqHS2ilnS15s8gEhKcRIRReAN5Bx3Y_)|
+| _Book Reading_  | ch 8: Optimization in deepnets        | Haoliang & Xingjian       | 25th June | [slides](https://drive.google.com/file/d/1M59FizkqmBZbv9ZxnQkYgShXkyuvQBpb/view?usp=sharing)|
 | _Book Reading_  | ch 9: CNNs                            | Tuan        | 29th June |              |
 | _Book Reading_  | ch 10: RNNs                           | Qian        | 3rd July |              |
 | _Book Reading_  | ch 15: Respresentation Learning       | Vishnu      | 6th July |              |
