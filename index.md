@@ -14,6 +14,8 @@ Please find the dicussion forum [here](https://groups.google.com/d/forum/dlta-re
 
 ### Time and Location
 
+News: today (06/23) meeting is at 4-5 pm at the break room on 5th floor of MSC.
+
 We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** in **MSC Conference room 4th floor**.
 
 
