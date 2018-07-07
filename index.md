@@ -14,8 +14,6 @@ Please find the dicussion forum [here](https://groups.google.com/d/forum/dlta-re
 
 ### Time and Location
 
-News: today (06/23) meeting is at 4-5 pm at the break room on 5th floor of MSC.
-
 We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** in **MSC Conference room 4th floor**.
 
 
@@ -30,7 +28,7 @@ We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** 
 | _Paper Review_  | Autoencoders, VAEs, WAEs              | Shitao      | 19th June |              |
 | _Presentation_  | CVPR 2018 Highlights                  | Ronak       | 22nd June |              |
 | _Book Reading_  | ch 8: Optimization in deepnets        | Haoliang & Xingjian       | 25th June | [slides](https://drive.google.com/file/d/1M59FizkqmBZbv9ZxnQkYgShXkyuvQBpb/view?usp=sharing)|
-| _Book Reading_  | ch 9: CNNs                            | Tuan        | 29th June |              |
+| _Book Reading_  | ch 9: CNNs                            | Tuan        | 29th June | [slides](https://drive.google.com/file/d/1bTrtpA9PTI38MQR_fcWg2f8cuOnSXLnU/view?usp=sharing)|
 | _Book Reading_  | ch 10: RNNs                           | Qian        | 3rd July |              |
 | _Book Reading_  | ch 15: Respresentation Learning       | Vishnu      | 6th July |              |
 | _Guest Talk_    | --topic--                             | [Vamsi](http://pages.cs.wisc.edu/~vamsi/) (Scientist @ Occulus)| -- July   |              |
