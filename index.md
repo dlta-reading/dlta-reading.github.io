@@ -4,17 +4,17 @@ layout: default
 
 Hi!
 
-Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will be doing book readings, paper readings, code demos, guest lectures and more importantly, discussing and updating the latest research from deep-learning community.
+Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will mainly be doing book readings and will occasionally have guest lectures. We will also be updating ourselves with the latest research from the deep-learning community.
 
-We are first planning to finish the book by Ian Goodfellow, [deeplearningbook](http://www.deeplearningbook.org/) and cover widely used deep learning architectures in June and then move to [Matrix Computation book](http://web.mit.edu/ehliu/Public/sclark/Golub%20G.H.,%20Van%20Loan%20C.F.-%20Matrix%20Computations.pdf) in mid July.
+We are first planning to finish the book by Ian Goodfellow, [deeplearningbook](http://www.deeplearningbook.org/) and and then move to [Matrix Computation book](http://web.mit.edu/ehliu/Public/sclark/Golub%20G.H.,%20Van%20Loan%20C.F.-%20Matrix%20Computations.pdf) in August.
 
-Please find the dicussion forum [here](https://groups.google.com/d/forum/dlta-reading). 
+We alternate our discussions between Slack and the google [forums](https://groups.google.com/d/forum/dlta-reading). 
 
 **All are welcome**
 
 ### Time and Location
 
-We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** in **MSC Conference room 4th floor**.
+We meet **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** in **MSC Conference room 4th floor**.
 
 
 ### Schedule
