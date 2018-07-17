@@ -29,14 +29,10 @@ We will be meeting **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** 
 | _Presentation_  | CVPR 2018 Highlights                  | Ronak       | 22nd June |              |
 | _Book Reading_  | ch 8: Optimization in deepnets        | Haoliang & Xingjian       | 25th June | [slides](https://drive.google.com/file/d/1M59FizkqmBZbv9ZxnQkYgShXkyuvQBpb/view?usp=sharing)|
 | _Book Reading_  | ch 9: CNNs                            | Tuan        | 29th June | [slides](https://drive.google.com/file/d/1bTrtpA9PTI38MQR_fcWg2f8cuOnSXLnU/view?usp=sharing)|
-| _Book Reading_  | ch 10: RNNs                           | Qian        | 3rd July |  [slides]
-(https://drive.google.com/file/d/139y8ssm-EqeMjOwNeE6A5koKvDtvX9Ef/view?usp=sharing)|
-| _Book Reading_  | ch 15: Respresentation Learning       | Vishnu      | 6th July | [slides]
-(https://drive.google.com/file/d/1zipsckxVLOizFAhtUzoAGutQ7lkzuFSC/view?usp=sharing)|
-| _Book Reading_  | ch 17: Monte Carlo Methods            | Ronak       | 10th July | [slides]
-(https://drive.google.com/file/d/1kRjn4xwaPTGbXSgS1194xNCHVAtcz6GW/view?usp=sharing)|
-| _Book Reading_  | ch 16: Probabilistic Models           | Zirui       | 13th July | [slides]
-(https://drive.google.com/file/d/13wjyIEpmVWXRFkBh2RS9SIBuJYte8SGG/view?usp=sharing)|
+| _Book Reading_  | ch 10: RNNs                           | Qian        | 3rd July |  [slides](https://drive.google.com/file/d/139y8ssm-EqeMjOwNeE6A5koKvDtvX9Ef/view?usp=sharing)|
+| _Book Reading_  | ch 15: Respresentation Learning       | Vishnu      | 6th July | [slides](https://drive.google.com/file/d/1zipsckxVLOizFAhtUzoAGutQ7lkzuFSC/view?usp=sharing)|
+| _Book Reading_  | ch 17: Monte Carlo Methods            | Ronak       | 10th July | [slides](https://drive.google.com/file/d/1kRjn4xwaPTGbXSgS1194xNCHVAtcz6GW/view?usp=sharing)|
+| _Book Reading_  | ch 16: Probabilistic Models           | Zirui       | 13th July | [slides](https://drive.google.com/file/d/13wjyIEpmVWXRFkBh2RS9SIBuJYte8SGG/view?usp=sharing)|
 | _Book Reading_  | ch 18: Partition Functions            | Zihang      | 17th July |           |
 
  <!---| _Guest Talk_    | --topic--                             | [Vamsi](http://pages.cs.wisc.edu/~vamsi/) (Scientist @ Occulus)| -- July   |              | --->
