@@ -35,7 +35,7 @@ We meet **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** in **MSC Co
 | _Book Reading_  | ch 16: Probabilistic Models           | Zirui       | 13th July | [slides](https://drive.google.com/file/d/13wjyIEpmVWXRFkBh2RS9SIBuJYte8SGG/view?usp=sharing)|
 | _Book Reading_  | ch 18: Partition Functions            | Zihang      | 17th July |           |
 
- <!---| _Guest Talk_    | --topic--                             | [Vamsi](http://pages.cs.wisc.edu/~vamsi/) (Scientist @ Occulus)| -- July   |              | --->
+
 
 
 
