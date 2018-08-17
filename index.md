@@ -39,7 +39,7 @@ We meet **Tuesdays** and **Fridays** from **4:30 pm** to **5:30 pm** in **MSC Co
 
 
 
-### Contact
+### Organizers
 
 If you have any questions or would like to join the reading group, please contact
 - Vishnu Lokhande [lokhande@cs.wisc.edu]
